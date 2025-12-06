@@ -1,0 +1,5 @@
+streamlit
+moviepy==1.0.3
+pillow
+numpy<2.0.0
+st-click-detector
